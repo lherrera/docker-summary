@@ -8,8 +8,8 @@ The output of "docker info" could be consufing at times. As you start using diff
 ****
 
 ## Output examples
-![Docker on Softlayer](https://github.com/lherrera/docker-summary/blob/master/output-2.jpg  =400x)
-![Docker Swarm]( https://github.com/lherrera/docker-summary/blob/master/output-3.jpg =400x)
+![Docker on Softlayer](https://raw.githubusercontent.com/lherrera/docker-summary/master/images/output-2.jpg =400x)
+![Docker Swarm](https://raw.githubusercontent.com/lherrera/docker-summary/master/images/output-3.jpg =400x)
 
 ****
 
